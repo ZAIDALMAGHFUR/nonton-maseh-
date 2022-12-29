@@ -7,11 +7,11 @@
         @apply text-[#B7B7B7];
     }
     .side-link.active {
-        @apply font-semibold border-r-[3px] border-alerange;
+        @apply font-semibold border-r-[3px] border-cyan-600;
     }
 
     .side-link.active svg {
-        @apply text-alerange;
+        @apply text-cyan-600;
     }
 
     input.top-search {

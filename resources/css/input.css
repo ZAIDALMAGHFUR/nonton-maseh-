@@ -3,10 +3,10 @@
 }
 
 .input-primary {
-    @apply focus:bg-form-bg bg-form-bg focus:outline-alerange focus:outline-none;
+    @apply focus:bg-form-bg bg-form-bg focus:outline-cyan-600 focus:outline-none;
 }
 
 .input-primary-outline {
-    @apply bg-[#fff] focus:bg-[#fff] border-alerange focus:border-alerange;
+    @apply bg-[#fff] focus:bg-[#fff] border-cyan-600 focus:border-cyan-600;
     @apply file:bg-alerange file:text-white file:rounded-md file:p-2;
 }
